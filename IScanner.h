@@ -9,7 +9,7 @@
 #include <boost/thread/mutex.hpp>
 #include <boost/asio/ip/tcp.hpp>
 #include <boost/date_time/posix_time/posix_time_types.hpp>
-#include "DataStrutures.h"
+#include "DataStructures.h"
 #include "IOutputer.h"
 //Scanner Interface
 using namespace boost::system;

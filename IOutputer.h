@@ -1,7 +1,7 @@
 #ifndef _IOUTPUTER_H_
 #define _IOUTPUTER_H_
 
-#include "DataStrutures.h"
+#include "DataStructures.h"
 
 using namespace PortScanner;
 

@@ -1,4 +1,4 @@
-#include "DataStrutures.h"
+#include "DataStructures.h"
 
 using namespace PortScanner;
 
